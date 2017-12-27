@@ -1,6 +1,6 @@
-# Tesonet Plugin for Pattern Lab
+# ReactJS Plugin for Pattern Lab
 
-The Tesonet Plugin adds support for the [Tesonet ReactJS Twig Library](https://github.com/tesonet/react-js-twig) to the [Twig PatternEngine for Pattern Lab](https://github.com/pattern-lab/patternengine-php-twig).
+The ReactJS Plugin adds support for [Tesonet's ReactJS Twig Library](https://github.com/tesonet/react-js-twig) to the [Twig PatternEngine for Pattern Lab](https://github.com/pattern-lab/patternengine-php-twig).
 
 ## Installation
 

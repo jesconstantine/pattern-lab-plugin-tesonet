@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Tesonet Listener Class
+ * Tesonet ReactJS Listener Class
  *
  * Licensed under the MIT license
  *
